@@ -1,0 +1,6 @@
+node_modules
+package-lock.json
+src/components/Forms/
+src/components/Forms
+src/components/Home/
+src/components/NavMenu/
