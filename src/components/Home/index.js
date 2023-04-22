@@ -10,7 +10,7 @@ export default function HomePage() {
   return (
     <Ambient>
       <Top>
-        <h2>LOGO</h2> 
+        <h2>Wirb</h2> 
         <Avatar/>
       </Top>
       <Line/>
